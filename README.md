@@ -1,2 +1,9 @@
-# STATSGATE
-The Statsgate Refactor
+## Important Notice
+This repo/site is obsolete and exists only for historical reference, checkout the latest version maintained by [F9Bomber]([https://github.com/BattlezoneScrapField/BZCC-Website](https://bz2stats.us/)).
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
